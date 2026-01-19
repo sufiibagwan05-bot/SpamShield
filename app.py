@@ -460,7 +460,7 @@ def main():
     <div style="text-align: center; color: #666; padding: 2rem;">
         <h4>🎓 Capstone Project: Email Spam Detection System</h4>
         <p>Built with ❤️ using Streamlit, Scikit-learn, and Machine Learning</p>
-        <p><strong>Developed by:</strong> Sahas Nagar | <strong>Year:</strong> 2026</p>
+        <p><strong>Developed by:</strong> Sufiyan Bagwan | <strong>Year:</strong> 2026</p>
     </div>
     """, unsafe_allow_html=True)
 
