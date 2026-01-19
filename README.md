@@ -15,7 +15,7 @@ No installation required - test the system directly in your browser!
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/spam-email-detection.git
+git clone https://github.com/Sahas2711/spam-email-detection.git
 cd spam-email-detection
 pip install -r requirements.txt
 streamlit run app.py
@@ -51,13 +51,7 @@ docker run -p 8501:8501 spam-detector
 1. Fork repository
 2. Connect to [Streamlit Cloud](https://streamlit.io/cloud)
 3. Deploy from GitHub
-<!-- 
-### Heroku
-```bash
-echo "web: streamlit run app.py --server.port=\$PORT --server.address=0.0.0.0" > Procfile
-heroku create your-app-name
-git push heroku main
-``` -->
+
 
 ## 📊 Performance
 
@@ -122,9 +116,9 @@ MIT License
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Sahas Nagar**
+- GitHub: [Sahas2711](https://github.com/Sahas2711)
+- Email: sahasnagar1234@gmail.com
 
 ---
 
